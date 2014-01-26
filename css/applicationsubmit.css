@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    margin-top: 20%;
+    background-image: url('../Images/tedxcornell.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top;
+    font-size: 40px;
+    font-family: Georgia;
+}
+
+a:link {
+    text-decoration: none;
+    color: #ff2b06;
+}
+
+a:visited {
+    color: #ff2b06;
+}
+
+a:hover {
+    color: #ff2b06;
+    opacity: 0.55;
+}
+
+
+a:active {
+    color: #ff2b06;
+}
+
